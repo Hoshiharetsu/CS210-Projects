@@ -45,3 +45,9 @@ In teaching, my core languages are Java and Python. The main challenge was makin
 Overall, knowing the core concepts of general programming really helped with tackling challenges I encountered. These are all things I'll often remind my students of, but doing it myself (after 20ish years) was a good reminder for tackling challenges with programming.
 
 ***
+
+## Specific Code Challenges:
+
+This I really had to think on - I guess if anything, I'd say in the Grocery Application, looping through and collecting the produce from the original text file and then writing it to a .dat file and formatting it to show the produce item and a number of that item that is available. Along that thought, for a lot of my work in the class I used CLion and then would create a Visual Studio project and rebuild the project in VS. That was probably the biggest challenge as CLion handles file reading and writing a little differently from VS (I think it's due to VS's .sln reference, I did not get too deep into it). 
+
+Several resources I tapped into included [W3Schools](https://www.w3schools.com/cpp/default.asp), [Microsoft's C++ Language Reference](https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170), along with several discord servers that focus on programming: [The Programmer's Hangout](https://discord.gg/programming), [The Coding Den](https://discord.gg/code), and [Code Support](https://discord.gg/codesupport-240880736851329024)
