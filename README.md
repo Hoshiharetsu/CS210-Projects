@@ -51,3 +51,13 @@ Overall, knowing the core concepts of general programming really helped with tac
 This I really had to think on - I guess if anything, I'd say in the Grocery Application, looping through and collecting the produce from the original text file and then writing it to a .dat file and formatting it to show the produce item and a number of that item that is available. Along that thought, for a lot of my work in the class I used CLion and then would create a Visual Studio project and rebuild the project in VS. That was probably the biggest challenge as CLion handles file reading and writing a little differently from VS (I think it's due to VS's .sln reference, I did not get too deep into it). 
 
 Several resources I tapped into included [W3Schools](https://www.w3schools.com/cpp/default.asp), [Microsoft's C++ Language Reference](https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170), along with several discord servers that focus on programming: [The Programmer's Hangout](https://discord.gg/programming), [The Coding Den](https://discord.gg/code), and [Code Support](https://discord.gg/codesupport-240880736851329024)
+
+## Skill Transferability:
+
+As I prepare for the Spring semester, the main skill I want to continue to use and pass on to my students is the importance of well documented code. Even in the introduction to programming courses, I now see how important it is for the students to be practicing this earlier rather than trying to add it later. I've already started to revisit several of my programming projects and activities to refine and add the additional requirement for commenting.
+
+***
+
+## Code adaptation and matainability:
+
+
