@@ -1,2 +1,9 @@
-# CS210: Project 2, Banking Application
-Demonstrations of C++ concepts via three class projects.
+# SNHU, CS-210: Project Showcase
+
+Projects demonstrating core C++ principles and industry standard program design.
+
+***
+
+## Project Summaries:
+
+
