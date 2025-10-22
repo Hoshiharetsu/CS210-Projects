@@ -8,11 +8,11 @@ Projects demonstrating core C++ principles and industry standard program design.
 
 #### Banking Application:
 
-This project addressed practicing pseudocoding along with development of an application that handles interest growth overtime based on initial investment values and percents of growth. 
+This project addressed practicing pseudo-coding along with development of an application that handles interest growth overtime based on initial investment values and percents of growth. 
 
 #### Clock Application:
 
-This application combines user input and dual clock controls that track both 12 and 24 hour time simultaniously. 
+This application combines user input and dual clock controls that track both 12 and 24 hour time simultaneously. 
 
 #### Grocery Application:
 
@@ -26,11 +26,11 @@ All three projects helped to further my organization and design flow. The streng
 
 ***
 
-## Enhancements and Nest Steps:
+## Enhancements and Next Steps:
 
 For all three, and generally: I have worked with console outputs for years now. My next areas of focus to move to the next level are packaging and making the step into applications. This will mean more work with getting more comfortable with UI libraries, but this is a next step I need to take. Regarding a step I would like to take, but will take a little longer, is integrating database interaction. 
 
-Specifically the Banking Application: It is more likely that a user would have an account, a password to acces the account, then have access to controls and seeing growth and tracking. I've only worked with databases via web site design and development. Starting the steps forward to work with databases with application development is something I'd like to further develop. However, having these applications as starting points, I think will make integrating databases easier.
+Specifically the Banking Application: It is more likely that a user would have an account, a password to access the account, then have access to controls and seeing growth and tracking. I've only worked with databases via web site design and development. Starting the steps forward to work with databases with application development is something I'd like to further develop. However, having these applications as starting points, I think will make integrating databases easier.
 
 ***
 
@@ -60,4 +60,4 @@ As I prepare for the Spring semester, the main skill I want to continue to use a
 
 ## Code adaptation and matainability:
 
-
+For all three programs, the use of classes and setting up methods within the classes. Keeping the core elements of the program in classes, makes editing and upkeep so much easier. Additionally, the flexibility it provides me is crucial for both areas. Using the Grocery Application as the example for this - while the project focused on produce, by using and external menu system to read through the document and organize the produce, I can now adapt it to be focused on meat products, or frozen items. Instead of having to recreate the application, I now have the structure to edit, and not need to completely recreate the program.
